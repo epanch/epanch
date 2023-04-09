@@ -1,16 +1,16 @@
-### Hi there 👋
+## About
+Hi, I'am Egor.  Nice to see you here! :)  
 
-<!--
-**epanch/epanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am junior analyst specialized on data analysis and visualisation. Now work with excel and looking for opportunities to implement all my hard-skills. My stack includes: Pandas, Numpy, Seaborn, Matplotlib, Scipy, SQL, Tableau. I also have more than 7 year experience of working with bank clients. It includes deals as with an individuals as a big corporations. 
+You can find my learning projects here, to know a bit more about my experience in data analysis.  
 
-Here are some ideas to get you started:
+Always in touch and glad to communicate!
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
